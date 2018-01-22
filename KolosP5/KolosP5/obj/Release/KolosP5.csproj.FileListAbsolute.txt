@@ -1,0 +1,6 @@
+D:\Świder\KolosP5\KolosP5\bin\Release\KolosP5.exe.config
+D:\Świder\KolosP5\KolosP5\bin\Release\KolosP5.exe
+D:\Świder\KolosP5\KolosP5\bin\Release\KolosP5.pdb
+D:\Świder\KolosP5\KolosP5\obj\Release\KolosP5.csprojResolveAssemblyReference.cache
+D:\Świder\KolosP5\KolosP5\obj\Release\KolosP5.exe
+D:\Świder\KolosP5\KolosP5\obj\Release\KolosP5.pdb

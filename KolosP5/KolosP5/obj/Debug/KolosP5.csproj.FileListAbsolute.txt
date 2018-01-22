@@ -1,0 +1,6 @@
+D:\Świder\KolosP5\KolosP5\bin\Debug\KolosP5.exe.config
+D:\Świder\KolosP5\KolosP5\bin\Debug\KolosP5.exe
+D:\Świder\KolosP5\KolosP5\bin\Debug\KolosP5.pdb
+D:\Świder\KolosP5\KolosP5\obj\Debug\KolosP5.exe
+D:\Świder\KolosP5\KolosP5\obj\Debug\KolosP5.pdb
+D:\Świder\KolosP5\KolosP5\obj\Debug\KolosP5.csprojResolveAssemblyReference.cache
